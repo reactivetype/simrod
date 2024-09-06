@@ -4,7 +4,7 @@ This repo contains the code links & demo for [SimROD: A Simple Adaptation Method
 ![simrod](https://user-images.githubusercontent.com/38634796/131594149-defb3468-f618-4b8b-a24c-7a709f4e1e47.png)
 
 A notebook to view and run the code is available at (similar to Google colab): 
-[https://marketplace.huaweicloud.com/markets/aihub/notebook/detail/?id=d6d7162f-32b9-483d-97d7-b16b32b148e2](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=bcc0b386-69ca-43f2-95ab-4580186d327b)
+[https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=bcc0b386-69ca-43f2-95ab-4580186d327b](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=bcc0b386-69ca-43f2-95ab-4580186d327b)
 
 Demo: https://youtu.be/idzi0_5WF-4
 
